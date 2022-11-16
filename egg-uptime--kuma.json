@@ -5,8 +5,8 @@
         "update_url": null
     },
     "exported_at": "2022-06-07T15:52:38+01:00",
-    "name": "Uptime-Kuma",
-    "author": "me@luxxy.xyz",
+    "name": "Uptime Kuma",
+    "author": "owner@techstar.live",
     "description": "It is a self-hosted monitoring tool like \"Uptime Robot\".",
     "features": null,
     "docker_images": {
